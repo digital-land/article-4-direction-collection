@@ -1,7 +1,7 @@
 geography,organisation,reference,name,geography,geometry,documentation-url,entry-date,start-date,end-date
 ,local-authority-eng:LBH,,"Clapham North Industrial Estate Key Industrial and Business Area;Durham Street/Oval Way Key Industrial and Business Area;Eurolink Business Centre Key Industrial and Business Area;Kennington Business Park Key Industrial and Business Area;Lion Yard
-Key Industrial and Business Area;Park Hall Trading Estate Key Industrial and Business Area;Shakespeare Road Business Centre Key Industrial and Business Area;Southbank House and Newport Street Key Industrial and Business Area;Stannary Street Key Industrial and Business Area;Timber Mill Way Key Industrial and Business Area;Brixton Town Centre;some sites in Clapham Town Centre",,https://www.lambeth.gov.uk/sites/default/files/maps%20from%20Article%204%20Direction%20B1a%20to%20C3.pdf,https://www.lambeth.gov.uk/sites/default/files/pl-a4-confirmation-notice.pdf,2021-01-04,2017-09-15,
-,local-authority-eng:LBH,,London Central Activities Zone within Lambeth,,https://www.lambeth.gov.uk/sites/default/files/pl_CAZ_article_4_direction_made_sealed.pdf,https://www.lambeth.gov.uk/sites/default/files/pl_CAZ_Article_4_Direction_Confirmation_Notice.pdf,2021-01-04,2019-05-31,
+Key Industrial and Business Area;Park Hall Trading Estate Key Industrial and Business Area;Shakespeare Road Business Centre Key Industrial and Business Area;Southbank House and Newport Street Key Industrial and Business Area;Stannary Street Key Industrial and Business Area;Timber Mill Way Key Industrial and Business Area;Brixton Town Centre;some sites in Clapham Town Centre",,,https://www.lambeth.gov.uk/sites/default/files/pl-a4-confirmation-notice.pdf,2021-01-04,2017-09-15,
+,local-authority-eng:LBH,,London Central Activities Zone within Lambeth,,,https://www.lambeth.gov.uk/sites/default/files/pl_CAZ_Article_4_Direction_Confirmation_Notice.pdf,2021-01-04,2019-05-31,
 ,local-authority-eng:LBH,CA3,Lansdowne Gardens,,,https://www.lambeth.gov.uk/sites/default/files/CA3LansdowneGardensArticle4Direction1973.pdf,2021-01-04,1981-07-07,
 ,local-authority-eng:LBH,CA4,Albert Square,,,https://www.lambeth.gov.uk/sites/default/files/AlbertSquareCAstatement2009_2.pdf,2021-01-04,2009-04-24,
 ,local-authority-eng:LBH,CA5,Stockwell Park,,,https://www.lambeth.gov.uk/sites/default/files/pl-stockwellPark-1973.pdf,2021-01-04,1973-07-16,
@@ -18,7 +18,7 @@ Key Industrial and Business Area;Park Hall Trading Estate Key Industrial and Bus
 ,local-authority-eng:SWK,,Light Industrial ,,,,2021-01-04,,
 ,local-authority-eng:SWK,,Central Activites Zone,,,,2021-01-04,,
 ,local-authority-eng:SWK,,Old Southern Railways and the Forage,,,,2021-01-04,,
-,local-authority-eng:SWK,,Sunray Estate ,,https://geo.southwark.gov.uk/connect/analyst/mobile/#/main?mapcfg=Southwark%20Design%20and%20Conservation&overlays=Conservation%20areas&x=532683.72822006&y=174944.80182662&zoom=13&showInfo=True,,2021-01-04,,
+,local-authority-eng:SWK,,Sunray Estate ,,,,2021-01-04,,
 ,local-authority-eng:SWK,,Change of Use in Town Centres,,,,2021-01-04,,
 ,local-authority-eng:BUC,AD312,LLC/ART4/0007,,,,2021-01-04,1963-10-12,
 ,local-authority-eng:BUC,AD321,LLC/ART4/0010,,,,2021-01-04,1970-12-05,
