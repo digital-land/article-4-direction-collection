@@ -1,1 +1,5 @@
 pipeline,resource,pattern,value
+article-4-direction,,NAME,name
+article-4-direction,,WKT,geometry
+article-4-direction,,START_DATE,start-date
+article-4-direction,,CODE,geography
