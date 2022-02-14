@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 article-4-direction,,,A4 1,7010000000
 article-4-direction,,,A4 2,7010000001
 article-4-direction,,,A4 3,7010000002
