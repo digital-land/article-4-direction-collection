@@ -27,3 +27,7 @@ issue/
 
 .idea
 .python-version
+# files built from the collection
+collection/log.csv
+collection/resource.csv
+collection/pipeline.mk
