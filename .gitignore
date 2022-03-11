@@ -24,3 +24,6 @@ collection/resource/
 dataset/
 transformed/
 issue/
+
+.idea
+.python-version
