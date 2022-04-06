@@ -4,6 +4,8 @@ article-4-direction,,LOCATION_1,name
 article-4-direction,,WKT,geometry
 article-4-direction,,START_DATE,start-date
 article-4-direction,,CODE,reference
+article-4-direction,,DESCRIPTIO,description
+article-4-direction,,COMMENT,notes
 article-4-direction,,Designatio,notes
 article-4-direction,,geography,reference
 article-4-direction,7fb3fd9a1f73608c71659df88e4c26f64e5ce883e5e1456b88dd14194cd1d677,OBJECTID,reference
@@ -20,3 +22,4 @@ article-4-direction,2665060da294b88ddd2201c639788f8ea1246eae9d0731516ea49715fdee
 article-4-direction,2665060da294b88ddd2201c639788f8ea1246eae9d0731516ea49715fdee97dd,DEV_TYPE,name
 article-4-direction,2665060da294b88ddd2201c639788f8ea1246eae9d0731516ea49715fdee97dd,DESCRIPTIO,description
 article-4-direction,2665060da294b88ddd2201c639788f8ea1246eae9d0731516ea49715fdee97dd,INT_ID,notes
+article-4-direction,880c46632d6c3bbc838e88a959cf9e092e40c9a0f9474a9e9867fa5b11abb62d,REF,reference
