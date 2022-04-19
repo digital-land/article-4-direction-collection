@@ -5,7 +5,7 @@ Data made available by [Southwark Council](https://www.southwark.gov.uk/) via em
 
 ## [The Sunray Estate](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/article-4-directions?chapter=2)
 
-[Article 4 _ Sunray Estate.gpkg](Article 4 _ Sunray Estate.gpkg)
+* [Article 4 _ Sunray Estate.gpkg](Article 4 _ Sunray Estate.gpkg)
 
 > The Sunray Estate Conservation Area comprises the Sunray Estate, which is located on Denmark Hill within North Dulwich. It encompasses the streets Sunray Avenue, Sunray Gardens, Casino Avenue, Nairne Grove, Red Post Hill, and part of Herne Hill. The conservation area is the subject of an Article 4 Direction, confirmed by the Secretary of State on 13 November 1987, under which some categories of external alterations, which would otherwise constitute “Permitted Development”, are subject to control.
 
@@ -29,7 +29,8 @@ Data made available by [Southwark Council](https://www.southwark.gov.uk/) via em
 </ul>
 
 ## [Houses in multiple occupation](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/article-4-directions?chapter=3)
-[Article 4 _ HMO Bywater Place.gpkg](Article 4 _ HMO Bywater Place.gpkg)
+
+* [Article 4 _ HMO Bywater Place.gpkg](Article 4 _ HMO Bywater Place.gpkg)
 
 > The council made an immediate Article 4 Direction on 27 October 2016 to remove permitted development rights for the change of use of dwelling houses to small (between 3 - 6 people) Houses in Multiple Occupation (HMO) in Bywater Place, Surrey Docks, SE16. This is to prevent an overconcentration of HMOs in one area, to protect the amenity of residents and preserve the area's character. The Direction was confirmed by the council on 11 April 2017. 
 
@@ -40,8 +41,10 @@ Data made available by [Southwark Council](https://www.southwark.gov.uk/) via em
 <li><a href="https://www.southwark.gov.uk/assets/attach/2080/1.1.4-Bywater-Place-HMO-Article-4-Direction-Equalities_analysis.pdf">Equalities analysis</a> <sup> (pdf, 92kb)</sup></li>
 </ul>
 
-## Railway Arches
-[Article 4 _ Railway Arches.gpkg](Article 4 _ Railway Arches.gpkg)
+## [Railway Arches](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/article-4-directions?chapter=4)
+
+* [Source](https://digital-land-performance.herokuapp.com/source/5bfb7f649e9e5287f070c03e277b81c4)
+* [Article 4 _ Railway Arches.gpkg](Article 4 _ Railway Arches.gpkg)
 
 > The council confirmed Article 4 Direction to remove permitted development rights relating to the conversion of railway arches to residential dwellings on 27 October 2016. This is to ensure residential amenity is protected.
 >
@@ -77,7 +80,8 @@ If you want to convert your railway arch from any of the above uses to residenti
 </ul>
 
 ## Class E to Residential](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/article-4-directions?chapter=5)
-[Article 4 - Class MA - Change of use from Class E to residential.gpkg](Article 4 - Class MA - Change of use from Class E to residential.gpkg)
+
+* [Article 4 - Class MA - Change of use from Class E to residential.gpkg](Article 4 - Class MA - Change of use from Class E to residential.gpkg)
 
 > On 27 January 2022, Southwark Council confirmed an immediate Article 4 Direction that came into effect from 1 August 2021. This withdraws the permitted development rights under Class MA. This means changes of use from Commercial, Business and Leisure (Class E) to residential (Class C3) will need planning permission in the following locations:
 >
@@ -102,7 +106,7 @@ If you want to convert your railway arch from any of the above uses to residenti
 
 # [Demolition of Commercial or Residential Buildings](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/article-4-directions?chapter=6)
 
-[Article 4 _ Class ZA _ Demolition of commercial.gpkg](Article 4 _ Class ZA _ Demolition of commercial.gpkg)
+* [Article 4 _ Class ZA _ Demolition of commercial.gpkg](Article 4 _ Class ZA _ Demolition of commercial.gpkg)
 
 > On 27 January 2022, Southwark Council confirmed a non-immediate Article 4 Direction that will come into effect from 1 August 2022. This withdraws the permitted development rights under Class ZA. This means demolition of commercial or residential buildings and replacement with a single dwelling housing or block of flats will need planning permission in the following locations:
 >
@@ -126,7 +130,8 @@ If you want to convert your railway arch from any of the above uses to residenti
 
 
 ## [Central Activities Zone (CAZ)](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/article-4-directions?chapter=8)
-[Article 4 _ offices in the Central Activities Zone.gpkg](Article 4 _ offices in the Central Activities Zone.gpkg)
+
+* [Article 4 _ offices in the Central Activities Zone.gpkg](Article 4 _ offices in the Central Activities Zone.gpkg)
 
 > The council confirmed a non-immediate Article 4 Direction to protect office land uses in Southwark’s Central Activities Zone (CAZ) in 2018. This will prevent the harm of office to residential permitted development rights in the CAZ in recognition of the geographic, economic and administrative benefits that the CAZ has on the London and UK economy.
 >
@@ -160,7 +165,8 @@ If you want to convert your railway arch from any of the above uses to residenti
 </ul>
 
 ## [Public Houses](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/article-4-directions?chapter=7)
-[Article 4 _ Public Houses.gpkg](Article 4 _ Public Houses.gpkg)
+
+* [Article 4 _ Public Houses.gpkg](Article 4 _ Public Houses.gpkg)
 
 > The council has confirmed immediate Article 4 Directions to protect traditional public houses across the borough. This is in recognition of the unique community and historic value pubs bring to local communities. The Article 4 Directions remove permitted development rights for the change of use, demolition or alteration of pubs. Planning permission will now be required for any proposed changes to pubs identified in the Article 4 Directions. A list of pubs can be found in the related documents listed below.
 
@@ -179,7 +185,7 @@ If you want to convert your railway arch from any of the above uses to residenti
 
 ## [The Old Southern Railway Stables and the Forge](https://www.southwark.gov.uk/planning-and-building-control/planning-policy-and-transport-policy/article-4-directions?chapter=9)
 
-[Article 4 _ Demolition of the Stables and the Forge on Catlin Street.gpkg](Article 4 _ Demolition of the Stables and the Forge on Catlin Street.gpkg)
+* [Article 4 _ Demolition of the Stables and the Forge on Catlin Street.gpkg](Article 4 _ Demolition of the Stables and the Forge on Catlin Street.gpkg)
 
 > The council has confirmed the immediate Article 4 Direction on 8 November 2018. The Article 4 Direction removes permitted development rights for the demolition of the Old Southern Railway Stables and the Forge at the junction of Catlin Street and St James’s Road.
 >
