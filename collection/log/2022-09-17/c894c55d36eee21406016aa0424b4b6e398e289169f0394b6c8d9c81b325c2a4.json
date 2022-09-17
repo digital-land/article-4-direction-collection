@@ -1,0 +1,1 @@
+{"elapsed":"120.192","endpoint-url":"https://maps.buckscc.gov.uk/arcgis/services/PLANNING/A4D_CDC/MapServer/WFSServer?request=GetFeature&service=WFS&typename=PLANNING_A4D_CDC:Article_4_Direction_s__Chiltern_","entry-date":"2022-09-17T00:20:08.002387","exception":"ConnectTimeout","ssl-verify":true}
