@@ -1,0 +1,46 @@
+reference,name,description
+P1CA,Part 1 Class A,"The enlargement, improvement or other alteration of a dwelling house where this affects the external appearance of the dwelling."
+P1CB,Part 1 Class B,Additions etc to the roof of a dwellinghouse
+P1CC,Part 1 Class C,Other alterations to the roof of a dwellinghouse
+P1CD,Part 1 Class D,The erection or construction of a porch outside any external door of a dwellinghouse if visible from any place to which the public have access.
+P1CE,Part 1 Class E,buildings etc incidental to the enjoyment of a dwellinghouse if fronting a relevant location
+P1CF,Part 1 Class F,hard surfaces incidental to the enjoyment of a dwellinghouse where the hard surface would front a relevant location
+P1CH,Part 1 Class H,"Microwave antenna on a dwellinghouse where the installation, alteration or replacement of a satellite antenna fronts a relevant location, The erection, alteration or removal of a chimney on the dwelling or a building within its curtilage"
+P2CA,Part 2 Class A,"The erection, construction, maintenance, improvement or alteration of a gate, fence, wall or other means of enclosure to which the public have access."
+P2CB,Part 2 Class B,means of access to a highway
+P2CC,Part 2 Class C,"External painting where the application of paint affects the texture or detailing of the exterior of the house, or would cover a currently unpainted surface"
+P3CA,Part 3 Class A,"Restaurants, cafes, takeaways or pubs to retail"
+P3CB,Part 3 Class B,Takeaways or pubs to restaurants and cafes
+P3CC,Part 3 Class C,"Retail, betting office or pay day loan shop to casino or restaurant or cafe"
+P3CD,Part 3 Class D,Shops to financial and professional
+P3CE,Part 3 Class E,Financial and professional or betting office or pay day loan shop to shops
+P3CF,Part 3 Class F,Betting offices or pay day loan shops to financial and professional
+P3CG,Part 3 Class G,Retail or betting office or pay day loan shop to mixed use
+P3CH,Part 3 Class H,Mixed use to retail
+P3CI,Part 3 Class I,Industrial and general business conversions
+P3CL,Part 3 Class L,Dwellinghouses to small HMOs
+P3CM,Part 3 Class M,Retail or betting office or pay day loan shop to dwellinghouses
+P3CN,Part 3 Class N,Specified sui generis uses to dwellinghouses
+P3CO,Part 3 Class O,Offices to dwellinghouses
+P3CP,Part 3 Class P,Storage or distribution centre to dwellinghouses
+P3CPA,Part 3 Class PA,Premises in light industrial use to dwellinghouses
+P3CQ,Part 3 Class Q,Agricultural buildings to dwellinghouses
+P3CR,Part 3 Class R,Agricultural buildings to a flexible commercial use
+P3CS,Part 3 Class S,Agricultural buildings to state funded school or registered nursery
+P3CT,Part 3 Class T,"Business, hotels etc to state funded schools or registered nursery"
+P3CU,Part 3 Class U,Return to previous use from converted state funded school or registered nursery
+P3CV,Part 3 Class V,Changes of use permitted under a permission granted on an application
+P4CA,Part 4 Class A,Temporary buildings and structures
+P4CB,Part 4 Class B,Temporary use of land
+P4CC,Part 4 Class C,Use as a state
+P4CD,Part 4 Class D,"Shops, financial, cafes, takeaways, pubs to temporary flexible use"
+P4CE,Part 4 Class E,Temporary use of buildings or land for film
+P5CA,Part 5 Class A,Use of land as caravan site
+P6CA,Part 6 Class A,Agricultural development on units of 5 hectares or more
+P6CB,Part 6 Class B,Agricultural development on units of less than 5 hectares
+P6CE,Part 6 Class E,Forestry developments
+P9CE,Part 9 Class E,Repairs to unadopted streets and private ways
+P11CA,Part 11 Class A,Development by Historic England
+P11CB,Part 11 Class B,Demolition of buildings
+P11CC,Part 11 Class C,"Demolition of gates, fences and walls etc"
+P24CA,Part 24 Class A,"The installation, alterations or replacement of any telecommunications apparatus"
