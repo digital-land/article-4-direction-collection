@@ -27,6 +27,7 @@ dataset/
 transformed/
 issue/
 hoisted/
+flattened/
 
 .idea
 .python-version
