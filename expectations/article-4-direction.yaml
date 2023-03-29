@@ -1,0 +1,12 @@
+expectations:
+# Newcastle City Council (228) expectations
+  - name: "Check we're recieving some article 4 direction areas from Newcastle City Council"
+    description: "Newcastle City Council have provided us with data for their article 4 direction areas, we should assume that from now on we should have more than zero data points for them in the final output"
+    expectation: count_entities
+    severity: warning
+    filters:
+      organisation_entity: '228'
+    expected_result: 0
+    assertion_rule: 'greater_than'
+    tags:
+      organisation: 'local-authority-eng:NET'

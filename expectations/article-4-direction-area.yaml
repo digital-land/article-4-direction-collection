@@ -1,0 +1,118 @@
+expectations:
+# general expectations
+    # - name: "Find invalid wkts in geometries"
+    #   description: "While we attempt to fix invalid geometriesas it's loaded into postgres they still may not be fixed instead we should identify and fix these further up the pipeline"
+    #   expectation: validate_wkt_values
+    #   severity: warning
+    #   col: geometry
+    #   table: entity
+    #   include_cols: 
+    #     - 'entity'
+
+# Medway Council (212) expectations
+  - name: "Check we're recieving some article 4 direction areas from Medway"
+    description: "Medway have provided us with data for their article 4 direction areas, we should assume that from now on we should have more than zero data points for them in the final output"
+    expectation: count_entities
+    severity: warning
+    filters:
+      organisation_entity: '212'
+    expected_result: 0
+    assertion_rule: 'greater_than'
+    tags:
+      organisation: 'local-authority-eng:MDW'
+
+# Newcastle City Council (228) expectations
+  - name: "Check we're recieving some article 4 direction areas from Newcastle City Council"
+    description: "Newcastle City Council have provided us with data for their article 4 direction areas, we should assume that from now on we should have more than zero data points for them in the final output"
+    expectation: count_entities
+    severity: warning
+    filters:
+      organisation_entity: '228'
+    expected_result: 0
+    assertion_rule: 'greater_than'
+    tags:
+      organisation: 'local-authority-eng:NET'
+
+# Northumberland Country Council (220) (NBL)
+  - name: "Check we're recieving some article 4 direction areas from Northumberland County Council"
+    description: "Northumberland County Council have provided us with data for their article 4 direction areas, we should assume that from now on we should have more than zero data points for them in the final output"
+    expectation: count_entities
+    severity: warning
+    filters:
+      organisation_entity: '220'
+    expected_result: 0
+    assertion_rule: 'greater_than'
+    tags:
+      organisation: 'local-authority-eng:NBL'
+
+# Buckinghamshire Council (67) (BUC)
+  - name: "Check we're recieving some article 4 direction areas from Buckinghamshire Council"
+    description: "Buckinghamshire Council have provided us with data for their article 4 direction areas, we should assume that from now on we should have more than zero data points for them in the final output"
+    expectation: count_entities
+    severity: warning
+    filters:
+      organisation_entity: '67'
+    expected_result: 0
+    assertion_rule: 'greater_than'
+    tags:
+      organisation: 'local-authority-eng:BUC'
+
+# Gloucester City Council (145) (GLO) 
+  - name: "Check we're recieving some article 4 direction areas from Gloucester City Council"
+    description: "Gloucester City Council have provided us with data for their article 4 direction areas, we should assume that from now on we should have more than zero data points for them in the final output"
+    expectation: count_entities
+    severity: warning
+    filters:
+      organisation_entity: '145'
+    expected_result: 0
+    assertion_rule: 'greater_than'
+    tags:
+      organisation: 'local-authority-eng:GLO'
+
+# Doncaster Metropolitan Borough Council (109) (DNC)
+  - name: "Check we're recieving some article 4 direction areas from Doncaster Metropolitan Borough Council"
+    description: "Doncaster Metropolitan Borough Council have provided us with data for their article 4 direction areas, we should assume that from now on we should have more than zero data points for them in the final output"
+    expectation: count_entities
+    severity: warning
+    filters:
+      organisation_entity: '109'
+    expected_result: 0
+    assertion_rule: 'greater_than'
+    tags:
+      organisation: 'local-authority-eng:DNC'
+
+# Canterbury City Council (75) (CAT)
+  - name: "Check we're recieving some article 4 direction areas from Canterbury City Council"
+    description: "Canterbury City Council have provided us with data for their article 4 direction areas, we should assume that from now on we should have more than zero data points for them in the final output"
+    expectation: count_entities
+    severity: warning
+    filters:
+      organisation_entity: '75'
+    expected_result: 0
+    assertion_rule: 'greater_than'
+    tags:
+      organisation: 'local-authority-eng:CAT'
+
+# London Borough of Southwark (329) (SWK)
+  - name: "Check we're recieving some article 4 direction areas from London Borough of Southwark"
+    description: "London Borough of Southwark have provided us with data for their article 4 direction areas, we should assume that from now on we should have more than zero data points for them in the final output"
+    expectation: count_entities
+    severity: warning
+    filters:
+      organisation_entity: '329'
+    expected_result: 0
+    assertion_rule: 'greater_than'
+    tags:
+      organisation: 'local-authority-eng:SWK'
+
+#  London Borough of Lambeth (192) (LBH)
+  - name: "Check we're recieving some article 4 direction areas from London Borough of Lambeth"
+    description: "London Borough of Lambeth have provided us with data for their article 4 direction areas, we should assume that from now on we should have more than zero data points for them in the final output"
+    expectation: count_entities
+    severity: warning
+    filters:
+      organisation_entity: '192'
+    expected_result: 0
+    assertion_rule: 'greater_than'
+    tags:
+      organisation: 'local-authority-eng:LBH'
