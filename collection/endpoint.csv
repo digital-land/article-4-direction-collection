@@ -31,3 +31,4 @@ d788f7a3f32b918aca77f75952243261fae0f6eddc6d32636a8955198d0293fd,https://datamil
 3bbf7138bc9dacbf42700c5d114ba0c1856ae4cdc7c92360e95103ae59d38c0a,https://opendata.camden.gov.uk/api/views/45mg-zjup/rows.csv,,,2023-08-11T16:16:49:18Z,,
 fc6886730a30350775d915a11a8bf5644e42c32395315abd525665a02246751a,https://maps.doncaster.gov.uk/server/rest/services/Planning/Article_4_DSA/MapServer/0,,arcgis,2023-08-30T10:10:04:07Z,,
 22b68af5f133601d5bafc187546b06f0cfffb95a1a6166449cec471ac7ed6706,https://opendata.camden.gov.uk/api/views/ypia-t7j2/rows.csv,,,2023-09-05T10:10:05:41Z,,
+24bc10a266141363496a758b610670d8fbc48495d8cd2e84a362485f0b93e861,https://services7.arcgis.com/NXULfNGIlsKmpCJD/arcgis/rest/services/Article_4_Direction_Area/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson,,,2023-10-09T12:12:45:23Z,,
