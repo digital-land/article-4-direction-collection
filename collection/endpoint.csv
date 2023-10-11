@@ -33,3 +33,4 @@ fc6886730a30350775d915a11a8bf5644e42c32395315abd525665a02246751a,https://maps.do
 22b68af5f133601d5bafc187546b06f0cfffb95a1a6166449cec471ac7ed6706,https://opendata.camden.gov.uk/api/views/ypia-t7j2/rows.csv,,,2023-09-05T10:10:05:41Z,,
 24bc10a266141363496a758b610670d8fbc48495d8cd2e84a362485f0b93e861,https://services7.arcgis.com/NXULfNGIlsKmpCJD/arcgis/rest/services/Article_4_Direction_Area/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson,,,2023-10-09T12:12:45:23Z,,
 d7e334900b5355ff4b43323d146d9d72cd3647bb4b31025aa7bd05dcb69596de,https://services7.arcgis.com/gTvs0fY5s2kJG3gO/arcgis/rest/services/SPE_Article_4_Directions/FeatureServer/1/query?outFields=*&where=1%3D1&f=geojson,,,2023-10-11T12:12:05:56Z,,
+4ae452cf1edffc027a1b929ce7c6e0692a3bd92066bab4853bafa9ecd8907499,https://services-eu1.arcgis.com/xk4RA36G57mVH7Aw/ArcGIS/rest/services/Article_4_National_Planning_Map_view/FeatureServer/0/query?where=1%3D1&f=geojson&outFields=*,,,2023-10-11T15:15:56:44Z,,
