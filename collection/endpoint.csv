@@ -37,3 +37,4 @@ d7e334900b5355ff4b43323d146d9d72cd3647bb4b31025aa7bd05dcb69596de,https://service
 99dd0c0c5c8d8b3d4250ac27ed6e5c04c7a0c661f7f5e698d84c140ac240d1bc,https://maps.epsom-ewell.gov.uk/getOWS.ashx?MapSource=EEBC/planx&service=WFS&version=1.1.0&request=GetFeature&Typename=article4areas,,wfs,2023-10-23T10:10:41:52Z,,
 99dd0c0c5c8d8b3d4250ac27ed6e5c04c7a0c661f7f5e698d84c140ac240d1bc,https://maps.epsom-ewell.gov.uk/getOWS.ashx?MapSource=EEBC/planx&service=WFS&version=1.1.0&request=GetFeature&Typename=article4areas,,wfs,2023-10-23T11:11:54:20Z,,
 65672f37a643acac1a9d5599a0631db5d9bad9b2cf8874cc7214f06a712664b2,https://maps.buckscc.gov.uk/arcgis/rest/services/PLANNING/A4D_CSB/MapServer/0/query?outFields=*&where=1%3D1&f=geojson,,wfs,2023-11-07,2023-11-02,
+2d9575d771afff89f6d731be59a1ff8cedfd99efcd8bb2f0a746a2d18c9bd1ca,https://maps.birmingham.gov.uk/server/rest/services/planx/PlanX/FeatureServer/0/query?where=1=1&outfields=*&f=geojson,,wfs,2023-11-14,2023-11-14,
