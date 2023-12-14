@@ -35,3 +35,7 @@ flattened/
 collection/log.csv
 collection/resource.csv
 collection/pipeline.mk
+
+# Used to add things, but don't need it in git
+/import.csv
+
