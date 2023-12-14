@@ -1,2 +1,0 @@
-organisation,documentation-url,endpoint-url,start-date,pipelines,plugin
-local-authority-eng:BIR,,https://maps.birmingham.gov.uk/server/rest/services/planx/PlanX/FeatureServer/0/query?where=1=1&outfields=*&f=geojson,2023-11-14,article-4-direction-area,wfs
