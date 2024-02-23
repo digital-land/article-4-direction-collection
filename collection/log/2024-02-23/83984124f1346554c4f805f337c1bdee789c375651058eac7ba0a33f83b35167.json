@@ -1,0 +1,1 @@
+{"elapsed":"120.686","endpoint-url":"https://gis.westberks.gov.uk/server/rest/services/Layers/LPA_ARTICLE4_DIRECTIONS/FeatureServer/0/query?where=1%3D1&f=geojson&outFields=*","entry-date":"2024-02-23T00:16:18.410517","exception":"ReadTimeout","ssl-verify":true}
