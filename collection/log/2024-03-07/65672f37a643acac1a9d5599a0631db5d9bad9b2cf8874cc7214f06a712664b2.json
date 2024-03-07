@@ -1,0 +1,1 @@
+{"elapsed":"0.475","endpoint-url":"https://maps.buckscc.gov.uk/arcgis/rest/services/PLANNING/A4D_CSB/MapServer/0/query?outFields=*&where=1%3D1&f=geojson","entry-date":"2024-03-07T00:14:07.572093","exception":"ConnectionError","ssl-verify":true}
