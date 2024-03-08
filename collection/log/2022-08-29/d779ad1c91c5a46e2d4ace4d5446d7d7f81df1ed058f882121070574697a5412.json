@@ -1,1 +1,0 @@
-{"elapsed":"223.163","endpoint-url":"http://medwaymaps.medway.gov.uk/WFS/wfs.exe?service=WFS&version=2.0.0&request=GetFeature&TypeNames=DVL_ARTICLE_4","entry-date":"2022-08-29T00:19:08.388712","exception":"ReadTimeout","ssl-verify":true}

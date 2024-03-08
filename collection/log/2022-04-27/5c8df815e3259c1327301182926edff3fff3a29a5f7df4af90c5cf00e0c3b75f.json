@@ -1,1 +1,0 @@
-{"elapsed":"120.206","endpoint-url":"https://maps.buckscc.gov.uk/arcgis/services/PLANNING/RIPA_BOPS/MapServer/WFSServer?service=WFS&version=2.0.0&request=GetFeature&typeName=PLANNING_RIPA_BOPS:Article_4_Directions&outputFormat=GEOJSON","entry-date":"2022-04-27T00:18:51.070657","exception":"ConnectTimeout","ssl-verify":true}

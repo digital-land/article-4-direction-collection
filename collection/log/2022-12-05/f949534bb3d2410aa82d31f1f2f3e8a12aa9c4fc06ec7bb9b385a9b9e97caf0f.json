@@ -1,1 +1,0 @@
-{"elapsed":"4.412","endpoint-url":"https://maps.buckscc.gov.uk/arcgis/services/PLANNING/A4D_SBDC/MapServer/WFSServer?request=GetFeature&service=WFS&typename=PLANNING_A4D_SBDC:Article_4_Direction_s__South_Bucks_","entry-date":"2022-12-05T00:17:49.655843","exception":"ConnectionError","ssl-verify":true}
