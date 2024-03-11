@@ -1,4 +1,4 @@
-# Article 4 Direction collection
+# Article 4 Direction collection  ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/brownfield-land/blob/master/LICENSE)
 [![Run pipeline](https://github.com/digital-land/article-4-direction-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/article-4-direction-collection/actions/workflows/run.yml)
