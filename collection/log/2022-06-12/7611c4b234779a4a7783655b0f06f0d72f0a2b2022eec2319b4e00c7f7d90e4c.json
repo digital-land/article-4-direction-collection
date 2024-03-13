@@ -1,1 +1,0 @@
-{"elapsed":"120.123","endpoint-url":"https://maps.buckscc.gov.uk/arcgis/services/PLANNING/A4D_AV/MapServer/WFSServer?request=GetFeature&service=WFS&typename=PLANNING_A4D_AV:Article_4_Direction_s__Aylesbury_Vale_","entry-date":"2022-06-12T00:19:24.885572","exception":"ConnectTimeout","ssl-verify":true}

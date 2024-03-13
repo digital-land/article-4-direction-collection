@@ -1,1 +1,0 @@
-{"elapsed":"0.47","endpoint-url":"https://maps.buckscc.gov.uk/arcgis/services/PLANNING/A4D_WDC/MapServer/WFSServer?request=GetFeature&service=WFS&typename=PLANNING_A4D_WDC:Article_4_Direction_s__Wycombe_","entry-date":"2023-11-15T00:15:38.574100","exception":"ConnectionError","ssl-verify":true}

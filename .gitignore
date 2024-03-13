@@ -39,3 +39,5 @@ collection/pipeline.mk
 # Used to add things, but don't need it in git
 /import.csv
 
+# Logs are in S3
+collection/log
